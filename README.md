@@ -18,7 +18,7 @@ rs-366 is a comprehensive Rust repository designed to facilitate enterprise appl
 
 To get started with rs-366, follow these steps:
 
-1. **Clone the Repository:** `git clone https://github.com/yourusername/rs-366.git`
+1. **Clone the Repository:** `git clone https://github.com/srivathsa-216/rs-366.git`
 2. **Install Rust:** If you haven't already, install Rust from [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
 3. **Build and Run:** Navigate to the project directory and run `cargo build` to build the project, then `cargo run` to run it.
 
