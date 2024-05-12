@@ -39,6 +39,6 @@ Contributions are welcome! If you'd like to contribute to rs-366, please follow 
 
 ## Contact
 
-If you have any questions or suggestions regarding rs-366, feel free to contact us at [srivathsa216@gmail.com](mailto:your-email@example.com).
+If you have any questions or suggestions regarding rs-366, feel free to contact us at [srivathsa216@gmail.com](mailto:srivathsa216@gmail.com).
 
 Happy coding!
